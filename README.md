@@ -107,6 +107,9 @@ export default MyComponent
 The component includes some default CSS, but you can change the way it looks by
 overriding the `.overlap-bar`, `.bar` and `.bar-label` classes.
 
+## Demo
+
+Coming as soon as I figure out how to work with React and GH Pages :)
 
 ## Contributing
 
