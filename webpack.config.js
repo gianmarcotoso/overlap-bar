@@ -21,7 +21,7 @@ module.exports = {
         modulesDirectories: ["node_modules"]
     },
     externals: {
-       "react": "React"
+       "react": "react"
     },
     plugins: [
     	new webpack.DefinePlugin({
