@@ -3,6 +3,8 @@
 A ReactJS component for a stacked fillable gauge where each bar is overlapped to
 the others.
 
+![Overlap Bar](./overlap-bar.png)
+
 ## Installation
 
 Install with `npm install overlap-bar` and `import` in your project.
